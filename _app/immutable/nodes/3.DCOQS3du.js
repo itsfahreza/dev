@@ -1,0 +1,1 @@
+import{t as e}from"../chunks/i0QB2VnV.js";import{K as t,g as n,q as r}from"../chunks/C18zgGrJ.js";import{t as i}from"../chunks/BBeTlsBb.js";import"../chunks/B2c_TIf4.js";function a(a,o){r(o,!0),n(()=>{console.log(`SETUP OK!`),i(e(`/`))}),t()}export{a as component};
